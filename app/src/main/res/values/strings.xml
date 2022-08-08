@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Business-Card</string>
+    <string name="label_business_cards">Cartões de visita</string>
+    <string name="label_description_new_card">Novo cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_confirmar">Confirmar</string>
+    <string name="label_show_success">Registro inserido com sucesso.</string>
+    <string name="label_share_to">Compartilhar</string>
+    <string name="label_compartilhar">Compartilhar</string>
+    <string name="label_cancelar">Cancelar</string>
+    <string name="label_quer_compratilhar">Compartilhar cartão de visitas?</string>
+    <string name="message_image_saved">Captura de tela realizada com sucesso.</string>
+    <string name="message_type_background_color">Digite uma cor, Hexadecimal. Ex: #FFFAFA</string>
+    <string name="message_type_the_company_name">Digite um nome para a empresa</string>
+    <string name="message_type_your_email">Digite um e-mail</string>
+    <string name="message_type_your_phone_number">Digite um numero de  telefone</string>
+    <string name="message_type_your_name">Digite um nome</string>
+</resources>
